@@ -1,4 +1,4 @@
 # exercicios_java
-Exercicio feitos no meu aprendizado de linguagem Java
+Exercicios feitos durante o meu aprendizado de linguagem Java.
 
 ** ver pasta src**
